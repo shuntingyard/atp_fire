@@ -1,0 +1,9 @@
+[package]
+name = "atp_fire"
+version = "0.1.0"
+edition = "2021"
+description = "A library to support filtering and fanout for AT Protocol's Event Stream"
+license = "GPL-2.0"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
