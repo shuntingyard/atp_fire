@@ -5,4 +5,4 @@ A library to support filtering and fanout for AT Protocol's'
 
 ## Status
 
-Code tagged 0.1.0 coming soon.
+Crate in early development.
